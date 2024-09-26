@@ -1,4 +1,4 @@
-package builder;
+
 
 // 햄버거 클래스 : 빌더 패턴을 사용해 단계적으로 객체를 생성 
 public class Burger {
