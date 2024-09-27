@@ -9,7 +9,7 @@ public class BurgerStore {
                 .build();
 
         System.out.println(burger1);
-        System.out.println("---------");
+        System.out.println("-------------------------------------------");
 
         Burger 치즈와양상추버거 = new Burger.BurgerBuilder("빵", "닭고기")
                 .addLettuce().addTomato().build();
